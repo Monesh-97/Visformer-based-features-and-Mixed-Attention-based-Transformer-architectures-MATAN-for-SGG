@@ -6,3 +6,8 @@ Mixed Attention-based Transformer Network (MATAN) is a novel approach for scene 
 - Methodological Innovation: Combines Visformer’s multiscale visual features with multiple attention mechanisms (self-, cross-, positional) in a transformer-based pipeline.
 - Method advantages: It achieved superior performance in relationship modelling with 94.067% accuracy, 95.654% TPR, and 93.126% F-measure on the VRD dataset.
 - Method applications: Enhances scene understanding for visual reasoning, image captioning, and improves performance in downstream vision language applications.
+
+<p align="center">
+  <img src="images/vis_sgg-Cross_attention_arch.jpg" width="350" title="hover text">
+  
+</p>
